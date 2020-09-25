@@ -11,7 +11,7 @@
 ###### Remove note:
      node app.js remove --title="t"     
      
-###### List notes:
+###### List note:
      node app.js list    
      
 ###### Read note:
