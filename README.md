@@ -2,7 +2,7 @@
 
 #### About the Project
 
-***It is a small command line app to keep your notes!***
+***It is a small command line app to organize your notes!***
 
 # Usage
 ###### Add note:
